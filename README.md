@@ -29,3 +29,7 @@
 
 ![alt text](https://cdn1.savepice.ru/uploads/2021/7/1/04bc40d8e664e2461936183b15193bb0-full.png)
 
+**Как найти оптимальное количество тем для тематического моделирования?**
+Для этого можно использовать метрики C_v C_uci.
+![alt text](https://cdn1.savepice.ru/uploads/2021/7/1/cfb5d9bbe0d58e83cbae3eaec814064f-full.png)
+
